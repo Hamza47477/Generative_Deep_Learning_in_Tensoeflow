@@ -1,4 +1,4 @@
-# Generative_Deep_Learning_in_Tensoeflow
+# Generative_Deep_Learning_in_Tensorflow
 
 
 Generative Deep Learning Repository
